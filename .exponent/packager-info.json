@@ -1,8 +1,8 @@
 {
-  "exponentServerPort": null,
-  "packagerPort": null,
-  "packagerPid": null,
-  "exponentServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null
+  "exponentServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 36908,
+  "exponentServerNgrokUrl": "https://cr-e7c.adetime.gl-test.exp.direct",
+  "packagerNgrokUrl": "https://packager.cr-e7c.adetime.gl-test.exp.direct",
+  "ngrokPid": 36938
 }
